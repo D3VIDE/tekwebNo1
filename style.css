@@ -38,9 +38,7 @@ nav a {
   color: teal;
   font-weight: bold;
 }
-a:link{
-  color: red;
-}
+
 nav a:hover {
   text-decoration: underline;
 }
